@@ -82,9 +82,6 @@ alias .....='cd ../../../..'
 # simple ip
 alias ip="ifconfig -a | perl -nle'/(\d+\.\d+\.\d+\.\d+)/ && print $1'"
 
-# web driver
-# alias updateWebdriver='node_modules/.bin/webdriver-manager update'
-
 # Home bin folder
 export PATH=$PATH:$HOME/bin
 
