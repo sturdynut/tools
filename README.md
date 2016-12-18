@@ -17,3 +17,4 @@ CD completion, path expansion, themes.
 ### Settings / Theme
 * [.zshrc](https://github.com/sturdynut/tools/blob/master/.zshrc)
 * [Theme - Cobalt2](https://github.com/wesbos/Cobalt2-iterm0)
+* [Theme - miloshadzic](#) (oh-my-zsh)
